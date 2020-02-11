@@ -1,0 +1,23 @@
+{
+  "name": "kuaidi100-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.0",
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baranwang/kuaidi100-api.git"
+  },
+  "author": "Baran",
+  "bugs": {
+    "url": "https://github.com/baranwang/kuaidi100-api/issues"
+  },
+  "homepage": "https://github.com/baranwang/kuaidi100-api"
+}
